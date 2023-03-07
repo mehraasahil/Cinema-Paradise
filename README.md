@@ -1,10 +1,10 @@
 # Cinema-Paradise-Main
 
-#LIVE DEMO
+#Live demo
 
 [Live Demo](https://cinema-para-frontend.mehraasahil.repl.co)
 ## How to Install
-#CHECK VIDEO DEMO
+#Check video demo
 
 
 
