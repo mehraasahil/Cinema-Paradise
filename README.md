@@ -1,6 +1,15 @@
-# Cinema-Paradise
+# Cinema-Paradise-Main
+
+#LIVE DEMO
+
 [Live Demo](https://cinema-para-frontend.mehraasahil.repl.co)
 ## How to Install
+#CHECK VIDEO DEMO
+
+
+
+https://user-images.githubusercontent.com/118424866/223422794-cf8bd5b0-3040-41fa-b176-bba5b5b0deca.mp4
+
 
 1. Git Clone
 
